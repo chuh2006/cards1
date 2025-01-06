@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <random>
-#include "vectorio.hpp"
+#include "vectorio.cpp"
 
 class Player {
 public:
